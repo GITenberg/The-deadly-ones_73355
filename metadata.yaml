@@ -1,5 +1,8 @@
 _repo: The-deadly-ones_73355
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73355-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, F. L. (Floyd L.)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26832
     wikipedia: https://en.wikipedia.org/wiki/F._L._Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73355#The-deadly-ones
 gutenberg_issued: '2024-04-08'
 gutenberg_type: Text
 identifiers:
